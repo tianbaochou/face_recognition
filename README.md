@@ -3,7 +3,7 @@
 The first version of code fork from [here](https://github.com/yeziyang1992/Face_Recognition_Client.git) and add some useful function
 I will remove some ugly function and re-coding later...
 I prefer pytorch framework, so the final version will support 
-pytorch 1.x
+pytorch 1.x. Anyway, thanks to the authors.
 
 ### Request
 
